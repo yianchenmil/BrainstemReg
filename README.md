@@ -86,7 +86,7 @@ export IIT_directory=/path/to/IIT_template
 
 If you use this pipeline in your research, please cite:
 
-[Optimal brainstem registration methods](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1711863)
+Chen et al. (2026), [Evaluating the quality of brainstem ROI registration using structural and diffusion MRI](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1711863)
 
 ## Data Availability
 
