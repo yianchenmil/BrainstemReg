@@ -1,4 +1,4 @@
-# Optimal Brainstem Registration Pipeline
+# Brainstem Registration Pipeline
 
 A comprehensive neuroimaging processing pipeline for optimizing brainstem structure registration using multi-modal MRI data (T1-weighted and diffusion-weighted imaging). This repository implements methods for high-precision registration of small brainstem nuclei including the substantia nigra, red nucleus, and dorsal raphe.
 
